@@ -1,0 +1,877 @@
+[
+    {
+      "Type dechets": "Dechets Aluminium",
+      "Qte": 720,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Aluminium",
+      "Qte": 200,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Aluminium",
+      "Qte": 1200,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Aluminium  Bronz Cuivre Laiton zinc",
+      "Qte": 600,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 2120,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 2520,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 4500,
+      "Gouvernorat": "Gafsa"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 8400,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 3492,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 156,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre",
+      "Qte": 3960,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer",
+      "Qte": 6000,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer",
+      "Qte": 3480,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer",
+      "Qte": 3120,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer",
+      "Qte": 288,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer",
+      "Qte": 4500,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer",
+      "Qte": 2500,
+      "Gouvernorat": "Zaghouan"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer Inox",
+      "Qte": 1800,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer Inox",
+      "Qte": 9000,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Cuivre Fer Inox",
+      "Qte": 1400,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Fer",
+      "Qte": 4290,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Fer",
+      "Qte": 90,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Aluminium Fer",
+      "Qte": 360,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 14280,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 17552,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 68693,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 94961,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 992,
+      "Gouvernorat": "Gabes"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 2964,
+      "Gouvernorat": "Gafsa"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 1920,
+      "Gouvernorat": "Jendouba"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 2388,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 1000,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 153810,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 13062,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 157398,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 10629,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 108,
+      "Gouvernorat": "Siliana"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 15628,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 240,
+      "Gouvernorat": "Sidi Bouzid"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 19206,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 102897,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Bois",
+      "Qte": 40688,
+      "Gouvernorat": "Zaghouane"
+    },
+    {
+      "Type dechets": "Dechets Cuivre Metaux",
+      "Qte": 22,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Fer",
+      "Qte": 840,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Fer",
+      "Qte": 300,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 94556,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 50,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 170,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 650,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 53350,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 669134,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 1700,
+      "Gouvernorat": "Sidi Bouzid"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 84463500,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Margines",
+      "Qte": 35200,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 6240,
+      "Gouvernorat": "Kef"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 1183991,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 28150,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 195738,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 17491061,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 300216,
+      "Gouvernorat": "Gabes"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 109545,
+      "Gouvernorat": "Gafsa"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 3175,
+      "Gouvernorat": "Jendouba"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 317450,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 156,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 3624,
+      "Gouvernorat": "Kebili"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 35721,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 47355,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 88288,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 1766248,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 17864115,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 25158,
+      "Gouvernorat": "Siliana"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 1706245,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 12312,
+      "Gouvernorat": "Sidi Bouzid"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 3728849,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 200180,
+      "Gouvernorat": "Tataouine"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 11526,
+      "Gouvernorat": "Tozeur"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 1482174,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Menagers et Assimiles",
+      "Qte": 47084,
+      "Gouvernorat": "Zaghouan"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 10300,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 15240,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 2218,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 1500,
+      "Gouvernorat": "Jendouba"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 132240,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 5200,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 47,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 360460,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 10380,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 48,
+      "Gouvernorat": "Siliana"
+    },
+    {
+      "Type dechets": "Dechets Metaux",
+      "Qte": 4292,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Organiques Grignons",
+      "Qte": 4500,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 89780,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 87475,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 34123,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 15362,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 5616,
+      "Gouvernorat": "Gabes"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 264,
+      "Gouvernorat": "Gafsa"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 156,
+      "Gouvernorat": "Jendouba"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 63528,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 5800,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 575,
+      "Gouvernorat": "Kebeli"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 64470,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 7503,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 3600,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 210776,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 5461,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 23400,
+      "Gouvernorat": "Siliana"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 30633,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 52483,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 96,
+      "Gouvernorat": "Tataouine"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 153021,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Papiers",
+      "Qte": 16025,
+      "Gouvernorat": "Zaghouan"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 8373,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 1500,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 11961,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 2500,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 3800,
+      "Gouvernorat": "Gabes"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 2845,
+      "Gouvernorat": "Gafsa"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 159,
+      "Gouvernorat": "Jendouba"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 1350,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 1965,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 365,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 972,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 422538,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 1690,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 33347,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 732,
+      "Gouvernorat": "Sidi Bouzid"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 62673,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 790,
+      "Gouvernorat": "Tozeur"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 98650,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Plastiques",
+      "Qte": 2000,
+      "Gouvernorat": "Zaghouan"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 11604,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 1080,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 300,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 68540,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 19100,
+      "Gouvernorat": "Gabes"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 1220,
+      "Gouvernorat": "Gafsa"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 3500,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 1680,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 540,
+      "Gouvernorat": "Kebili"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 36,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 300,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 6540,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 2012,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 24830,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 16426,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 26250,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Pneu",
+      "Qte": 1864,
+      "Gouvernorat": "Zaghouan"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 3696,
+      "Gouvernorat": "Ariana"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 570,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 3702,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 95540,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 240,
+      "Gouvernorat": "Jendouba"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 2120,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 500,
+      "Gouvernorat": "Kasserine"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 8805,
+      "Gouvernorat": "Mahdia"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 2100,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 12000,
+      "Gouvernorat": "Medenine"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 778461,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 7338,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 2170,
+      "Gouvernorat": "Sfax"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 3354,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 76032,
+      "Gouvernorat": "Tunis"
+    },
+    {
+      "Type dechets": "Dechets Textiles",
+      "Qte": 4090,
+      "Gouvernorat": "Zaghouan"
+    },
+    {
+      "Type dechets": "Dechets Textiles et Cuires",
+      "Qte": 200,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 930,
+      "Gouvernorat": "Beja"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 330,
+      "Gouvernorat": "Ben Arous"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 400,
+      "Gouvernorat": "Bizerte"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 1080,
+      "Gouvernorat": "Kairouan"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 340,
+      "Gouvernorat": "Manouba"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 150450,
+      "Gouvernorat": "Monastir"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 6000,
+      "Gouvernorat": "Nabeul"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 2496,
+      "Gouvernorat": "Siliana"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 1420,
+      "Gouvernorat": "Sousse"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 984,
+      "Gouvernorat": "Tataouine"
+    },
+    {
+      "Type dechets": "Dechets Verres",
+      "Qte": 8562,
+      "Gouvernorat": "Tunis"
+    }
+  ]

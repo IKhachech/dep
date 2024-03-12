@@ -1,0 +1,62 @@
+{
+	"Zones_industrielles": [
+	  {
+		"Zone": "Tunis"
+	  },
+	  {
+		"Zone": "Ariana"
+	  },
+	  {
+		"Zone": "Ben Arous"
+	  },
+	  {
+		"Zone": "Sousse"
+	  },
+	  {
+		"Zone": "Sfax"
+	  },
+	  {
+		"Zone": "Bizerte"
+	  },
+	  {
+		"Zone": "Gabes"
+	  },
+	  {
+		"Zone": "Kairouan"
+	  },
+	  {
+		"Zone": "Nabeul"
+	  },
+	  {
+		"Zone": "Zaghouan"
+	  }
+	],
+	"Criteres_choix_zone": [
+	  "Type de dechets a composter",
+	  "Proximite des entreprises productrices de dechets",
+	  "Disponibilite des infrastructures",
+	  "Reglementations en vigueur"
+	],
+	"Entreprises_compostage_industriel": [
+		{
+			"Entreprise": "Reca",
+			"Localisation": "(Ariana)"
+		  },
+		  {
+			"Entreprise": "Sicad",
+			"Localisation": "(Ben Arous)"
+		  },
+		  {
+			"Entreprise": "Enviro-services",
+			"Localisation": "(Tunis)"
+		  },
+		  {
+			"Entreprise": "Sorec",
+			"Localisation": "(Sousse)"
+		  },
+		  {
+			"Entreprise": "SOTUVER",
+			"Localisation": "(Gabes)"
+		  }
+		]
+  }
